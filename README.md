@@ -1,4 +1,7 @@
 # v1.0
+
+![Screenshot](view.JPG)
+
 # Network Connections Monitor
 
 ## Overview
